@@ -7,7 +7,6 @@
   "git": {
     "commit": false,
     "push": false,
-    "commitMessage": "Release v${version} [skip ci]",
     "requireUpstream": false,
     "requireCleanWorkingDir": false
   },
